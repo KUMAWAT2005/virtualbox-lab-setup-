@@ -118,16 +118,7 @@ With the VM shut down, open its VirtualBox settings:
 
 The screenshots currently included in this repository do not show these settings, so add your own screenshot after configuring them.
 
-### 7. Take a snapshot
 
-After the IP address, internet access, and sharing settings are confirmed:
-
-1. Open VirtualBox Manager and select the Kali VM.
-2. Open **Snapshots** and choose **Take**.
-3. Use a clear name such as `Week1-Lab-Setup-Complete`.
-4. Save the snapshot.
-
-Add a screenshot of the snapshot list before submission.
 
 ## Evidence Screenshots
 
