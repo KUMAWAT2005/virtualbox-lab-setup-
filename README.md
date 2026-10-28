@@ -50,7 +50,8 @@ Official downloads:
 4. Keep **Enable DHCP** enabled as shown in the captured configuration.
 5. Save the settings.
 
-![VirtualBox NAT Network settings](screenshots/nat-network-settings.png)
+<img width="2050" height="1128" alt="Screenshot_20261027_213708" src="https://github.com/user-attachments/assets/a4d6c2ee-8914-443b-9a5c-80fc62c5ec05" />
+
 
 *Figure 1. NAT Network configured with IPv4 prefix `10.0.0.0/24` and DHCP enabled.*
 
@@ -62,7 +63,8 @@ Official downloads:
 4. Choose `NatNetwork` and ensure **Cable Connected** is selected.
 5. Save the settings.
 
-![Kali virtual machine overview](screenshots/kali-vm-overview.png)
+<img width="2050" height="1128" alt="Screenshot_20261027_214126" src="https://github.com/user-attachments/assets/0f94ac54-c4aa-46ee-83c5-799f47ba25be" />
+
 
 *Figure 2. Kali Linux VM imported in VirtualBox; the details panel shows Adapter 1 attached to the `NatNetwork` NAT Network.*
 
@@ -100,7 +102,8 @@ ping -c 4 google.com
 
 A successful `ping 8.8.8.8` verifies IP-level reachability to that destination. A successful `ping google.com` also tests name resolution, provided ICMP traffic is permitted.
 
-![Kali internet connectivity test](screenshots/internet-connectivity-test.jpeg)
+<img width="1280" height="725" alt="screenshot" src="https://github.com/user-attachments/assets/d58f45b2-7a40-410d-91c5-366c22b73b09" />
+
 
 *Figure 3. Kali Terminal showing successful replies from `8.8.8.8` and 0% packet loss in the captured test.*
 
