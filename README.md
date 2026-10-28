@@ -310,7 +310,7 @@ This laboratory is intended strictly for education purposes only.
 **Ritesh kumawat**\
 Cybersecurity intern (Batch: B084)
 
-LinkedIn: [linkedin.com/in/ritesh-kumawat-0a430838a]
+LinkedIn:(https://www.linkedin.com/in/ritesh-kumawat-0a430838a/)
 
 ---
 
