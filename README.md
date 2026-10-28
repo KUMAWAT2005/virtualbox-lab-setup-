@@ -68,7 +68,8 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](1-screenshot.PNG)
+<img width="1375" height="722" alt="Screenshot_20261028_155728" src="https://github.com/user-attachments/assets/bbc1649b-50f1-4b0c-993f-9d6303b75c63" />
+
 
 
 Additional target machines can be added to the same virtual network in future projects.
@@ -119,7 +120,8 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-1PM-1CYBERSECURITY-LAB-SETUP/blob/main/2nd%20screenshot%20-network%20setting.PNG)
+<img width="1409" height="703" alt="Screenshot_20261028_160138" src="https://github.com/user-attachments/assets/532404b1-77ee-4bcb-8cdd-020bb28d82ed" />
+
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
@@ -146,7 +148,8 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-1PM-1CYBERSECURITY-LAB-SETUP/blob/main/3rd%20screenshot-kali-linux.PNG)
+<img width="1291" height="700" alt="Screenshot_20261028_160328" src="https://github.com/user-attachments/assets/2fc3fe71-2a7a-46d3-85ed-77fc6b322c9d" />
+
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
@@ -168,7 +171,8 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-1PM-1CYBERSECURITY-LAB-SETUP/blob/main/4th%20%20screenshot-kali-network-setting.PNG)
+<img width="1306" height="716" alt="Screenshot_20261028_160443" src="https://github.com/user-attachments/assets/e5d92269-188b-43ef-85eb-539f9b0f809a" />
+
 
 ---
 
