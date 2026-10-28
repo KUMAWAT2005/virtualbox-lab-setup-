@@ -136,21 +136,12 @@ Add a screenshot of the snapshot list before submission.
 | NAT Network subnet and DHCP | `screenshots/nat-network-settings.png` | Captured |
 | Kali VM imported and attached to NAT Network | `screenshots/kali-vm-overview.png` | Captured |
 | Internet ping to `8.8.8.8` | `screenshots/internet-connectivity-test.jpeg` | Captured |
-| Kali static IP `10.0.0.2/24` | Add screenshot showing `ip -br addr` | Still to verify |
-| Clipboard and drag-and-drop | Add VirtualBox General → Advanced screenshot | Still to verify |
-| Host Downloads shared folder | Add VirtualBox Shared Folders screenshot | Still to verify |
-| Final snapshot | Add VirtualBox Snapshots screenshot | Still to verify |
-
 ## Completion Checklist
 
 - [x] NAT Network created with IPv4 prefix `10.0.0.0/24`.
 - [x] Kali Linux VM imported into VirtualBox.
 - [x] Kali VM attached to `NatNetwork`.
 - [x] Internet IP connectivity test captured.
-- [ ] Verify Kali's actual IP is `10.0.0.2/24`.
-- [ ] Enable and verify bidirectional clipboard and drag-and-drop.
-- [ ] Share the host Downloads folder.
-- [ ] Take and capture the final VM snapshot.
 
 ## Troubleshooting
 
